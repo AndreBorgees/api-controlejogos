@@ -1,0 +1,17 @@
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\ControleJogos.Domain.dll.config
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\ControleJogos.Domain.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\ControleJogos.Domain.pdb
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\EntityFramework.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\prmToolkit.NotificationPattern.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\EntityFramework.xml
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\bin\Debug\en-US\prmToolkit.NotificationPattern.resources.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.csproj.CopyComplete
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.dll
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.pdb
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.csprojAssemblyReference.cache
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.Resources.Message.resources
+C:\Projetos\AspNet\ControleJogos\ControleJogos\ControleJogos.Domain\obj\Debug\ControleJogos.Domain.csproj.GenerateResource.cache
